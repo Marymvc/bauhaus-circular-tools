@@ -132,7 +132,7 @@ MIT License - ver [LICENSE](LICENSE)
 
 ## ✨ Autor
 
-Tu Nombre - [@tuhandle](https://github.com/tuusuario)
+Mary Magali Villca Cruz - [@Marymvc](https://github.com/Marymvc)
 
 ##  Agradecimientos
 

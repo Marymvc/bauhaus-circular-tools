@@ -1,6 +1,6 @@
 [project]
 name = "bauhaus-circular-tools"
-version = "0.2.0"
+version = "0.2.1"
 description = "Herramientas de diseño circular para arquitectura basadas en principios Bauhaus"
 readme = "README.md"
 authors = [
@@ -28,8 +28,7 @@ classifiers = [
     "Intended Audience :: Developers",
     "Intended Audience :: Science/Research",
     "Intended Audience :: End Users/Desktop",
-    "Topic :: Scientific/Engineering :: Architecture",
-    "Topic :: Scientific/Engineering",
+    "Topic :: Utilities",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.8",
