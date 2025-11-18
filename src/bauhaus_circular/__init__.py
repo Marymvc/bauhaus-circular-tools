@@ -10,7 +10,7 @@ Autora: Mary Magali Villca Cruz
 Email: arqmaryvillca@gmail.com
 """
 
-__version__ = "0.2.0"
+__version__ = "1.0.0"
 __author__ = "Mary Magali Villca Cruz"
 __email__ = "arqmaryvillca@gmail.com"
 

@@ -4,6 +4,26 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [1.0.0] - 2025-11-18
+
+### 🎉 Lanzamiento Versión Estable
+
+#### Changed
+- **Promoción a versión estable 1.0.0**
+- API estabilizada y lista para producción
+- Documentación completa y ejemplos validados
+
+#### Improved
+- Optimización de rendimiento en cálculos
+- Mejoras en la cobertura de tests
+- Refinamiento de la experiencia de usuario
+
+#### Notes
+- Esta versión marca la estabilidad del API
+- Compatible con versiones 0.2.x
+- Recomendado para uso en proyectos de producción
+
+---
 
 ## [0.2.0] - 2024-01-15
 
@@ -65,13 +85,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### 🔄 Estado del Proyecto
 
-**Versión Actual**: 0.2.0 (Desarrollo Activo)  
-**Estabilidad**: Beta - API puede cambiar en versiones futuras  
-**Próxima Versión Objetivo**: 0.3.0  
+**Versión Actual**: 1.0.0 (Estable)  
+**Estabilidad**: Estable - API consolidada  
+**Próxima Versión Objetivo**: 1.1.0
 
 ### 📝 Notas de Versión
 
-Esta es la **primera versión funcional** del proyecto. Estamos en fase de desarrollo activo y buscando feedback inicial. La API puede cambiar en versiones futuras hasta alcanzar la estabilidad en la versión 1.0.0.
+Esta es la **versión estable 1.0.0** del proyecto. La librería ha sido probada y validada para proyectos de arquitectura circular basados en principios Bauhaus.
 
 **Autora**: Mary Magali Villca Cruz  
 **Contacto**: arqmaryvillca@gmail.com  

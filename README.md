@@ -139,6 +139,7 @@ Mary Magali Villca Cruz - [@Marymvc](https://github.com/Marymvc)
 - Bauhaus School (Walter Gropius, 1919)
 - Ellen MacArthur Foundation (Economía Circular)
 - Comunidad Grasshopper/Rhino
+- Ing Yeison Zarate
 
 ---
 

@@ -1,6 +1,6 @@
 [project]
 name = "bauhaus-circular-tools"
-version = "0.2.1"
+version = "1.0.0"
 description = "Herramientas de diseño circular para arquitectura basadas en principios Bauhaus"
 readme = "README.md"
 authors = [
